@@ -1,0 +1,6 @@
+[package]
+name = "variable-binding"
+version = "0.1.0"
+authors = ["wangyaoguang <382689420@qq.com>"]
+
+[dependencies]
